@@ -1,8 +1,8 @@
 {
-    "textures": {
+	"textures": {
 		"particle": "item/doll/furina",
 		"doll": "item/doll/furina"
-    },
+	},
 	"elements": [
 		{
 			"from": [5.1504, 4, 7.08248],
@@ -57,8 +57,8 @@
 			}
 		},
 		{
-			"from": [5, 2, 6.75],
-			"to": [11, 8, 6.75],
+			"from": [4.8, 1.8, 6.75],
+			"to": [11.2, 8.2, 6.75],
 			"rotation": {"angle": 0, "axis": "z", "origin": [8, 5, 7]},
 			"faces": {
 				"north": {"uv": [0, 0, 16, 16], "texture": "#layer0"},
@@ -150,7 +150,7 @@
 		{
 			"from": [4.35, 6, 7.35],
 			"to": [11.65, 13.3, 14.65],
-			"rotation": {"angle": 22.5, "axis": "x", "origin": [8, 10, 11]},
+			"rotation": {"angle": 45, "axis": "x", "origin": [8, 10, 11]},
 			"faces": {
 				"north": {"uv": [2, 2, 4, 4], "texture": "#doll"},
 				"east": {"uv": [0, 2, 2, 4], "texture": "#doll"},
@@ -163,7 +163,7 @@
 		{
 			"from": [4, 5.99, 7],
 			"to": [12, 13.99, 15],
-			"rotation": {"angle": 22.5, "axis": "x", "origin": [8, 10, 11]},
+			"rotation": {"angle": 45, "axis": "x", "origin": [8, 10, 11]},
 			"faces": {
 				"north": {"uv": [10, 2, 12, 4], "texture": "#doll"},
 				"east": {"uv": [8, 2, 10, 4], "texture": "#doll"},
